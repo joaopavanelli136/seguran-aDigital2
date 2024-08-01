@@ -1,1 +1,1 @@
-# seguran-aDigital2
+# js-gerador-senha
